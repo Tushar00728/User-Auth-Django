@@ -37,4 +37,3 @@ def logoutUser(request):
     return redirect("/login")
     
 
-#Django007$
